@@ -1,1 +1,6 @@
-
+name: "suffer"
+displayName: "suffer"
+author: "1ARC1"
+description: "prepare to lose braincells"
+version:"-1.0"
+minGameVersion: "122"
