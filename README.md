@@ -1,2 +1,2 @@
 # mindustrybundle
-break brain
+break yourself
