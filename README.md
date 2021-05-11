@@ -6,3 +6,6 @@ i am not responsible with any strokes or seizures you may have with this mod. if
 
 # note
 im doing this for fun, so i wont accept any prs unless its a grammar fix
+
+# qmelz
+somebody named qmelz already made bundle hell so im gonna archive this
